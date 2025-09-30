@@ -78,7 +78,7 @@ A **scalable**, **feature-rich** E-Commerce backend built with **ASP.NET Core 8*
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/M4Shenawy1702/E-Commerce.git
+git clone https://https://github.com/mohammedshaabansruor/E-commerce.git
 cd E-Commerce
 ```
 ### 2️⃣ Set up the Database
@@ -102,4 +102,5 @@ dotnet run --project WebAPI
   "PublishableKey": "your_stripe_publishable_key"
 }
 ```
+
 
