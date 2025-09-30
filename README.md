@@ -102,6 +102,4 @@ dotnet run --project WebAPI
   "PublishableKey": "your_stripe_publishable_key"
 }
 ```
-### 📸 Screenshots 
 
-![Swagger Doc](assets/E-Commerce%20API%20Documentation.png)
